@@ -5,7 +5,7 @@ import org.newdawn.slick.state.StateBasedGame;
 
 /**
  * 
- * @author Brandon Gaudet
+ * @author Ziyi Jiang
  *
  */
 public class MainController extends StateBasedGame {
