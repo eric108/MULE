@@ -67,7 +67,12 @@ private static String e7;
 			GameData.getActivePlayer().getResources().setGold(gold+2*m);
 			return e4 + " " + 2*m + "!";
 		}
-		//check if the player is poorest
+		//check if the player has lowest score
+		for (Player player: GameData.getPlayers()){
+			if(player.getScore()< score){
+				return "";
+			}
+		}
 		for (Player player: GameData.getPlayers()){
 			if(player.getResources().getGold()< gold){
 				return "";
