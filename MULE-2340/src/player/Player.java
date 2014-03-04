@@ -21,7 +21,7 @@ import races.Race;
 
 /**
  * 
- * @author Brandon Duarte
+ * @author Ziyi Jiang
  * 
  */
 
