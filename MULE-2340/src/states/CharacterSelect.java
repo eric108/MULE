@@ -34,7 +34,7 @@ import ui_components.Button;
 
 /**
  * 
- * @author MattC
+ * @author Ziyi Jiang
  */
 
 public class CharacterSelect extends BasicGameState {
