@@ -3,7 +3,7 @@ package player;
 /**
  * This class hold all the resources in the game
  * 
- * @author Brandon
+ * @author Ziyi Jiang
  * 
  */
 public class Resources implements java.io.Serializable {
