@@ -11,7 +11,7 @@ import org.newdawn.slick.geom.Rectangle;
 
 /**
  * 
- * @author Brandon Duarte
+ * @author Ziyi Jiang
  * 
  */
 public class Button {
