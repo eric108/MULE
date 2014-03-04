@@ -7,7 +7,7 @@ import org.newdawn.slick.TrueTypeFont;
 /**
  * Sets the font for the user
  * 
- * @author Brandon
+ * @author Ziyi Jiang
  * 
  */
 public class UserFonts {
