@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/geom
+END
+Circle.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/geom/Circle.java
+END
+OverTriangulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/geom/OverTriangulator.java
+END
+MannTriangulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/geom/MannTriangulator.java
+END
+Point.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/geom/Point.java
+END
+Rectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/geom/Rectangle.java
+END
+Curve.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/geom/Curve.java
+END
+Transform.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/geom/Transform.java
+END
+BasicTriangulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/geom/BasicTriangulator.java
+END
+NeatTriangulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/geom/NeatTriangulator.java
+END
+Path.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/geom/Path.java
+END
+TexCoordGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/geom/TexCoordGenerator.java
+END
+ShapeRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/geom/ShapeRenderer.java
+END
+RoundedRectangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/geom/RoundedRectangle.java
+END
+Shape.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/geom/Shape.java
+END
+GeomUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/geom/GeomUtil.java
+END
+Ellipse.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/geom/Ellipse.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/geom/package.html
+END
+Triangulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/geom/Triangulator.java
+END
+Polygon.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/geom/Polygon.java
+END
+MorphShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/geom/MorphShape.java
+END
+Vector2f.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/geom/Vector2f.java
+END
+Line.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/geom/Line.java
+END
+GeomUtilListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/geom/GeomUtilListener.java
+END

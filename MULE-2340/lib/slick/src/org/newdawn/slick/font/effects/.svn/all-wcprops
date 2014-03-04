@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/font/effects
+END
+OutlineZigzagEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/font/effects/OutlineZigzagEffect.java
+END
+ConfigurableEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/font/effects/ConfigurableEffect.java
+END
+FilterEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/font/effects/FilterEffect.java
+END
+OutlineWobbleEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/font/effects/OutlineWobbleEffect.java
+END
+ColorEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/font/effects/ColorEffect.java
+END
+EffectUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/font/effects/EffectUtil.java
+END
+OutlineEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/font/effects/OutlineEffect.java
+END
+ShadowEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/font/effects/ShadowEffect.java
+END
+GradientEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/font/effects/GradientEffect.java
+END
+Effect.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/font/effects/Effect.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/gui
+END
+BasicComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/gui/BasicComponent.java
+END
+TextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/gui/TextField.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/gui/package.html
+END
+AbstractComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/gui/AbstractComponent.java
+END
+MouseOverArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/gui/MouseOverArea.java
+END
+GUIContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/gui/GUIContext.java
+END
+ComponentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/gui/ComponentListener.java
+END

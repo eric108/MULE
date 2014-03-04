@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/120/trunk/src/game
+END
+EventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/117/trunk/src/game/EventHandler.java
+END
+GameData.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/120/trunk/src/game/GameData.java
+END
+GameDataSerExclusion.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/117/trunk/src/game/GameDataSerExclusion.java
+END
+RaceTypeAdapterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/117/trunk/src/game/RaceTypeAdapterFactory.java
+END

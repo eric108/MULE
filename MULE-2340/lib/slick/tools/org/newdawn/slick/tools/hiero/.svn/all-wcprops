@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/hiero
+END
+BMFontUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/hiero/BMFontUtil.java
+END
+CharSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/hiero/CharSet.java
+END
+Kerning.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/hiero/Kerning.java
+END
+DataSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/hiero/DataSet.java
+END
+Splash.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/hiero/Splash.java
+END
+splash.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/hiero/splash.jpg
+END
+ProgressDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/hiero/ProgressDialog.java
+END
+CharSetDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/hiero/CharSetDialog.java
+END
+HieroConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/hiero/HieroConfig.java
+END
+Hiero.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/hiero/Hiero.java
+END
+ProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/hiero/ProgressListener.java
+END

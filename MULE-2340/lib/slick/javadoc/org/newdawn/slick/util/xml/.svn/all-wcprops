@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/xml
+END
+XMLParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/xml/XMLParser.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/xml/package-frame.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/xml/package-tree.html
+END
+XMLElement.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/xml/XMLElement.html
+END
+XMLElementList.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/xml/XMLElementList.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/xml/package-use.html
+END
+SlickXMLException.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/xml/SlickXMLException.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/xml/package-summary.html
+END
+ObjectTreeParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/xml/ObjectTreeParser.html
+END

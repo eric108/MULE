@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/pathfinding/navmesh
+END
+NavMesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/pathfinding/navmesh/NavMesh.java
+END
+NavMeshBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/pathfinding/navmesh/NavMeshBuilder.java
+END
+Link.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/pathfinding/navmesh/Link.java
+END
+NavPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/pathfinding/navmesh/NavPath.java
+END
+Space.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/pathfinding/navmesh/Space.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/scalar
+END
+Scalar.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/scalar/Scalar.java
+END
+ImagePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/scalar/ImagePanel.java
+END
+RawScale2x.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/scalar/RawScale2x.java
+END
+RawScale3x.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/scalar/RawScale3x.java
+END
+ImageScale2x.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/scalar/ImageScale2x.java
+END
+ImageScale3x.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/scalar/ImageScale3x.java
+END

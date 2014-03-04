@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/svg/inkscape/class-use
+END
+PolygonProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/svg/inkscape/class-use/PolygonProcessor.html
+END
+ElementProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/svg/inkscape/class-use/ElementProcessor.html
+END
+EllipseProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/svg/inkscape/class-use/EllipseProcessor.html
+END
+DefsProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/svg/inkscape/class-use/DefsProcessor.html
+END
+GroupProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/svg/inkscape/class-use/GroupProcessor.html
+END
+Util.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/svg/inkscape/class-use/Util.html
+END
+RectProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/svg/inkscape/class-use/RectProcessor.html
+END
+InkscapeNonGeometricData.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/svg/inkscape/class-use/InkscapeNonGeometricData.html
+END
+LineProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/svg/inkscape/class-use/LineProcessor.html
+END
+PathProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/svg/inkscape/class-use/PathProcessor.html
+END
+UseProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/svg/inkscape/class-use/UseProcessor.html
+END

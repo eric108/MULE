@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/state/transition
+END
+VerticalSplitTransition.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/state/transition/VerticalSplitTransition.html
+END
+FadeInTransition.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/state/transition/FadeInTransition.html
+END
+Transition.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/state/transition/Transition.html
+END
+SelectTransition.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/state/transition/SelectTransition.html
+END
+RotateTransition.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/state/transition/RotateTransition.html
+END
+HorizontalSplitTransition.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/state/transition/HorizontalSplitTransition.html
+END
+BlobbyTransition.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/state/transition/BlobbyTransition.html
+END
+FadeOutTransition.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/state/transition/FadeOutTransition.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/state/transition/package-frame.html
+END
+CrossStateTransition.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/state/transition/CrossStateTransition.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/state/transition/package-tree.html
+END
+EmptyTransition.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/state/transition/EmptyTransition.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/state/transition/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/state/transition/package-summary.html
+END
+CombinedTransition.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/state/transition/CombinedTransition.html
+END

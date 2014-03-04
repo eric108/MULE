@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/state/transition
+END
+RotateTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/state/transition/RotateTransition.java
+END
+HorizontalSplitTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/state/transition/HorizontalSplitTransition.java
+END
+CombinedTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/state/transition/CombinedTransition.java
+END
+VerticalSplitTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/state/transition/VerticalSplitTransition.java
+END
+BlobbyTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/state/transition/BlobbyTransition.java
+END
+FadeOutTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/state/transition/FadeOutTransition.java
+END
+FadeInTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/state/transition/FadeInTransition.java
+END
+CrossStateTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/state/transition/CrossStateTransition.java
+END
+Transition.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/state/transition/Transition.java
+END
+EmptyTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/state/transition/EmptyTransition.java
+END
+SelectTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/state/transition/SelectTransition.java
+END

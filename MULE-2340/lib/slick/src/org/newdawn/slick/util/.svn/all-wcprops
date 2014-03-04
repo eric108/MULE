@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util
+END
+Bootstrap.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/Bootstrap.java
+END
+MaskUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/MaskUtil.java
+END
+OperationNotSupportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/OperationNotSupportedException.java
+END
+LocatedImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/LocatedImage.java
+END
+InputAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/InputAdapter.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/Log.java
+END
+ResourceLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/ResourceLocation.java
+END
+FontUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/FontUtils.java
+END
+ResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/ResourceLoader.java
+END
+FileSystemLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/FileSystemLocation.java
+END
+BufferedImageUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/BufferedImageUtil.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/package.html
+END
+FastTrig.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/FastTrig.java
+END
+LogSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/LogSystem.java
+END
+ClasspathLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/ClasspathLocation.java
+END
+DefaultLogSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/DefaultLogSystem.java
+END

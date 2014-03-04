@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/pathfinding
+END
+AStarHeuristic.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/pathfinding/AStarHeuristic.html
+END
+TileBasedMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/pathfinding/TileBasedMap.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/pathfinding/package-frame.html
+END
+Path.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/pathfinding/Path.html
+END
+Path.Step.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/pathfinding/Path.Step.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/pathfinding/package-tree.html
+END
+Mover.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/pathfinding/Mover.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/pathfinding/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/pathfinding/package-summary.html
+END
+AStarPathFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/pathfinding/AStarPathFinder.html
+END
+PathFindingContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/pathfinding/PathFindingContext.html
+END
+PathFinder.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/pathfinding/PathFinder.html
+END

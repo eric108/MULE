@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/hiero/truetype
+END
+FontFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/hiero/truetype/FontFileReader.java
+END
+IOUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/hiero/truetype/IOUtils.java
+END
+FontData.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/hiero/truetype/FontData.java
+END
+Glyphs.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/hiero/truetype/Glyphs.java
+END
+TTFMtxEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/hiero/truetype/TTFMtxEntry.java
+END
+StatusListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/hiero/truetype/StatusListener.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/hiero/truetype/Log.java
+END
+TTFSubSetFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/hiero/truetype/TTFSubSetFile.java
+END
+TTFDirTabEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/hiero/truetype/TTFDirTabEntry.java
+END
+TTFCmapEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/hiero/truetype/TTFCmapEntry.java
+END
+TTFFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/lib/slick/tools/org/newdawn/slick/tools/hiero/truetype/TTFFile.java
+END

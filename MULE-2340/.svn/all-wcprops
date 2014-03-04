@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/126/trunk
+END
+saveFile.dat
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/125/trunk/saveFile.dat
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/.project
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/125/trunk/.classpath
+END

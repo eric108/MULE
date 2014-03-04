@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/openal
+END
+DeferredSound.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/openal/DeferredSound.java
+END
+StreamSound.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/openal/StreamSound.java
+END
+NullAudio.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/openal/NullAudio.java
+END
+MODSound.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/openal/MODSound.java
+END
+AudioLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/openal/AudioLoader.java
+END
+WaveData.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/openal/WaveData.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/openal/package.html
+END
+OggInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/openal/OggInputStream.java
+END
+OggData.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/openal/OggData.java
+END
+Audio.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/openal/Audio.java
+END
+OpenALStreamPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/openal/OpenALStreamPlayer.java
+END
+AudioImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/openal/AudioImpl.java
+END
+OggDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/openal/OggDecoder.java
+END
+AudioInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/openal/AudioInputStream.java
+END
+AiffData.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/openal/AiffData.java
+END
+SoundStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/openal/SoundStore.java
+END

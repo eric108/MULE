@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/loading
+END
+DeferredResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/loading/DeferredResource.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/loading/package.html
+END
+LoadingList.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/loading/LoadingList.java
+END

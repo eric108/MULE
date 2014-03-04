@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/google-gson-2.2.4/gson-2.2.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/google-gson-2.2.4/gson-2.2.4-sources.jar"/>
+	<classpathentry kind="lib" path="lib/google-gson-2.2.4/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="lib/slick/lib/jinput.jar"/>
+	<classpathentry kind="lib" path="lib/slick/lib/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="lib/slick/lib/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="MULE-2340/lib/slick"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/slick/lib/natives-windows.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="MULE-2340/lib/slick/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/slick/lib/slick.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/Music/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/Music/jorbis-0.0.17-1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

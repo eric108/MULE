@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/lib/slick/lib
+END
+natives-linux.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/lib/slick/lib/natives-linux.jar
+END
+jogg-0.0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/lib/slick/lib/jogg-0.0.7.jar
+END
+tinylinepp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/lib/slick/lib/tinylinepp.jar
+END
+lwjgl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/lib/slick/lib/lwjgl.jar
+END
+slick.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/lib/slick/lib/slick.jar
+END
+jnlp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/lib/slick/lib/jnlp.jar
+END
+lwjgl_util_applet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/lib/slick/lib/lwjgl_util_applet.jar
+END
+lwjgl_util.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/lib/slick/lib/lwjgl_util.jar
+END
+jorbis-0.0.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/lib/slick/lib/jorbis-0.0.15.jar
+END
+natives-mac.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/lib/slick/lib/natives-mac.jar
+END
+ibxm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/lib/slick/lib/ibxm.jar
+END
+slick-examples.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/lib/slick/lib/slick-examples.jar
+END
+jinput.jar
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/lib/slick/lib/jinput.jar
+END
+natives-windows.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/lib/slick/lib/natives-windows.jar
+END

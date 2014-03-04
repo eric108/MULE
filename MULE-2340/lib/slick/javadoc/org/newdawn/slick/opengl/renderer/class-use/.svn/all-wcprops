@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/opengl/renderer/class-use
+END
+SGL.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/opengl/renderer/class-use/SGL.html
+END
+LineStripRenderer.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/opengl/renderer/class-use/LineStripRenderer.html
+END
+DefaultLineStripRenderer.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/opengl/renderer/class-use/DefaultLineStripRenderer.html
+END
+ImmediateModeOGLRenderer.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/opengl/renderer/class-use/ImmediateModeOGLRenderer.html
+END
+Renderer.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/opengl/renderer/class-use/Renderer.html
+END
+VAOGLRenderer.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/opengl/renderer/class-use/VAOGLRenderer.html
+END
+QuadBasedLineStripRenderer.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/opengl/renderer/class-use/QuadBasedLineStripRenderer.html
+END

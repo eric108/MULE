@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/opengl
+END
+SlickCallable.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/opengl/SlickCallable.java
+END
+TextureLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/opengl/TextureLoader.java
+END
+GLUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/opengl/GLUtils.java
+END
+CursorLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/opengl/CursorLoader.java
+END
+LoadableImageData.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/opengl/LoadableImageData.java
+END
+ImageDataFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/opengl/ImageDataFactory.java
+END
+ImageData.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/opengl/ImageData.java
+END
+ImageIOImageData.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/opengl/ImageIOImageData.java
+END
+CompositeIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/opengl/CompositeIOException.java
+END
+CompositeImageData.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/opengl/CompositeImageData.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/opengl/package.html
+END
+DeferredTexture.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/opengl/DeferredTexture.java
+END
+PNGImageData.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/opengl/PNGImageData.java
+END
+Texture.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/opengl/Texture.java
+END
+PNGDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/opengl/PNGDecoder.java
+END
+TextureImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/opengl/TextureImpl.java
+END
+EmptyImageData.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/opengl/EmptyImageData.java
+END
+TGAImageData.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/opengl/TGAImageData.java
+END
+InternalTextureLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/opengl/InternalTextureLoader.java
+END

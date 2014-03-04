@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/pathfinding/heuristics
+END
+ClosestSquaredHeuristic.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/pathfinding/heuristics/ClosestSquaredHeuristic.java
+END
+ManhattanHeuristic.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/pathfinding/heuristics/ManhattanHeuristic.java
+END
+ClosestHeuristic.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3/trunk/lib/slick/src/org/newdawn/slick/util/pathfinding/heuristics/ClosestHeuristic.java
+END

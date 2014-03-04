@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/pathfinding/heuristics
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/pathfinding/heuristics/package-frame.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/pathfinding/heuristics/package-tree.html
+END
+ClosestHeuristic.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/pathfinding/heuristics/ClosestHeuristic.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/pathfinding/heuristics/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/pathfinding/heuristics/package-summary.html
+END
+ClosestSquaredHeuristic.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/pathfinding/heuristics/ClosestSquaredHeuristic.html
+END
+ManhattanHeuristic.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/3/trunk/lib/slick/javadoc/org/newdawn/slick/util/pathfinding/heuristics/ManhattanHeuristic.html
+END
