@@ -9,7 +9,7 @@ import player.Mule;
 /**
  * one type of tile
  * 
- * @author Brandon
+ * @author Ziyi Jiang
  * 
  */
 public class Mountain3 extends BasicTyle {
