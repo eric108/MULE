@@ -25,7 +25,6 @@ public class JUnitTests {
 
 	@Test
 	public void testPlayerSoldFood() {
-		//Brandon Duarte
 		Player p1 = new Player();
 		p1.getResources().setEasy();
 		Assert.assertEquals("Trade successfully went through and shouldn't have.", false, p1.soldFood(9));
@@ -41,8 +40,7 @@ public class JUnitTests {
 	@Test
 	public void testFoodRequirements() throws SlickException
 	{	
-		//Brandon Gaudet
-		
+
 		GameData.getInstance().setCurrRound(0);
 		Assert.assertEquals("Round 0 =has the right food requirements", 3, GameData.getInstance().getFoodReq());
 		GameData.getInstance().setCurrRound(1);
@@ -71,34 +69,10 @@ public class JUnitTests {
 		Assert.assertEquals("Round 0 =has the right food requirements", 5, GameData.getInstance().getFoodReq());
 		
 		
-			//Brandon Gaudet
-		//AppGameContainer app = new AppGameContainer(new MainController(
-			//	"Setup test"));
-		 //GameContainer gameContainer = new GameContainer(Game newgame = new Game());
-//			Store g1 = new Store();
-//			GameData.getInstance().setDifficulty("Easy");
-//			g1.setStockResources();
-//			Assert.assertEquals("Easy: Food is Stocked Right", 16, g1.getStockFood());
-//			Assert.assertEquals("Easy: Energy is Stocked Right", 16, g1.getStockEnergy());
-//			Assert.assertEquals("Easy: Ore is Stocked Right", 0, g1.getStockOre());
-//			
-//			GameData.getInstance().setDifficulty("Standard");
-//			g1.setStockResources();
-//			Assert.assertEquals("Standard: Food is Stocked Right", 8, g1.getStockFood());
-//			Assert.assertEquals("Standard: Energy is Stocked Right", 8, g1.getStockEnergy());
-//			Assert.assertEquals("Standard: Ore is Stocked Right", 8, g1.getStockOre());
-//			
-//			GameData.getInstance().setDifficulty("Hard");
-//			g1.setStockResources();
-//			Assert.assertEquals("Hard: Food is Stocked Right", 8, g1.getStockFood());
-//			Assert.assertEquals("Hard: Energy is Stocked Right", 8, g1.getStockEnergy());
-//			Assert.assertEquals("Hard: Ore is Stocked Right", 8, g1.getStockOre());
-	}
+	
 	
 	@Test
 	public void testEventHandler(){
-		
-		//Ziyi Jiang
 		GameData.getInstance().setActivePlayer(new Player());
 		GameData.getInstance().getActivePlayer().setEnergy(10);
 		GameData.getInstance().getActivePlayer().setFood(10);
@@ -121,8 +95,7 @@ public class JUnitTests {
 	}
 	@Test
 	public void testRandomMapGenerator(){
-		//Bedford Peterson
-		
+
 		//constructor calls generateTileMap(boolean random)
 		Map aMap = new Map(true);
 		int[][] notRandom = aMap.arrayGenerator();
@@ -148,7 +121,6 @@ public class JUnitTests {
 	
 	@Test
 	public void testPlayerOreRoundProd(){
-		// Matthew Carle
 		Player ply = new Player();
 		ply.buyMule("ORE");
 		GameData data = GameData.getInstance();
