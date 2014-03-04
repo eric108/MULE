@@ -10,7 +10,7 @@ import com.google.gson.InstanceCreator;
 /**
  * interface class for all of the races
  * 
- * @author Brandon
+ * @author Ziyi Jiang
  * 
  */
 public interface Race extends Serializable {
