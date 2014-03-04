@@ -22,7 +22,7 @@ import ui_components.Button;
 
 /**
  * @version 1
- * @author Bedford Peterson
+ * @author Ziyi Jiang
  * 
  *         int playerCount represents the number of players chosen. String
  *         difficulty represents the difficulty chosen. boolean randomMap
