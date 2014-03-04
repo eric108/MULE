@@ -11,7 +11,7 @@ import player.Player;
 /**
  * abstract Tile class
  * 
- * @author Brandon
+ * @author Ziyi Jiang
  * 
  */
 public abstract class BasicTyle implements Tile {
