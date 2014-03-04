@@ -10,7 +10,7 @@ import org.newdawn.slick.Image;
 
 /**
  * 
- * @author Brandon
+ * @author Ziyi Jiang
  * 
  */
 public class Pub {
