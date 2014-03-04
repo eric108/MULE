@@ -47,7 +47,7 @@ import com.sun.istack.internal.logging.Logger;
  */
 
 /**
- * @author Brandon Gaudet
+ * @author Ziyi Jiang
  * 
  */
 public class GameData implements Serializable {
