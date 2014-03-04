@@ -7,7 +7,7 @@ import player.Mule;
 /**
  * one type of tile
  * 
- * @author Brandon
+ * @author Ziyi Jiang
  * 
  */
 public class Plain extends BasicTyle {
